@@ -4,17 +4,17 @@ at 2 different locations
 
 Server equipment:
 
-Witness Node
+Witness Node: 
 Linux Ubuntu
 128GB RAM
 8TB SSD
 
-Backup Node
+Backup Node: 
 Linux Ubuntu
 72GB RAM
 4TB SSD
 
-Application Node
+Application Node: 
 Microsoft Server 2016 Standard
 32GB RAM
 2TB SSD
