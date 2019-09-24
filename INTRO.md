@@ -5,4 +5,4 @@ The term "Super Representative" explains our role in the TRON network. We will p
 
 Furthermore, applications are and have already been developed which we make available to the community free of charge.
 
-Our Blockrewards, if we are elected Super Representative, we give back 90% of the TRX to our community. The remaining 10% will be retained for maintenance and running costs.
+Our Blockrewards and Voterewards, if we are elected Super Representative, we give back 100% of the TRX to our community.
