@@ -1,14 +1,10 @@
 ## Founder
 
-Name: [name]
-Role: [role]
+Name: Marco Jäger
+Role: Founder
 
-## Team Member 1
+Name: Maik Schierholz
+Role: Founder
 
-Name: [name]
-Role: [role]
-
-## Team Member 2
-
-Name: [name]
-Role: [role]
+Name: Steffen Helms
+Role: Founder
