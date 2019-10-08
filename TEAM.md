@@ -1,5 +1,7 @@
 ## Founder
 
-### Name: Marco Jäger
-### Name: Maik Schierholz
-### Name: Steffen Helms
+Name: Marco Jäger
+
+Name: Maik Schierholz
+
+Name: Steffen Helms
