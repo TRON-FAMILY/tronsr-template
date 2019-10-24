@@ -7,6 +7,3 @@ One of the 3 founders of TRON-Family is Marco, who was previously CTO at Tron Eu
 
 #### Name: Maik Schierholz
 ##### Role: CEO / CMO
-
-#### Name: Steffen Helms
-##### Role: CEO / CMO
