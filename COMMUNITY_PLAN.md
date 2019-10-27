@@ -3,5 +3,5 @@ Of course we want to bring TRON forward and have various social media like Teleg
 #### Social Media
 ##### Telegram English:   https://t.me/tron_family
 ##### Telegram Russian:   https://t.me/tron_family_ru
-##### Telegram German :   https://t.me/tron_family_de
+##### Telegram German:    https://t.me/tron_family_de
 ##### Twitter :           https://twitter.com/tron_family?s=17
