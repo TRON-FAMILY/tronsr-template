@@ -5,6 +5,6 @@ The term "Super Representative" explains our role in the TRON network. We will p
 
 Furthermore, applications are and have already been developed which we make available to the community free of charge.
 
-Our Blockrewards and Voterewards, if we are elected Super Representative, we give back 80% of the TRX back to our community. PayOut in FAT Token (TRC10 TokenID: 1002939)
+Our Blockrewards and Voterewards, if we are elected Super Representative, we give back 100% of the TRX back to our community.
 
 ### [WHITEPAPER](https://github.com/tronfamily/tronsr-template/blob/master/whitepaper_v1.pdf)
